@@ -1,3 +1,12 @@
 h2{
     color: blueviolet;
 }
+
+#boton{
+    background-color:royalblue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
